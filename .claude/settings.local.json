@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(npm search *)",
+      "Bash(npm info *)",
+      "Bash(gh search *)",
+      "Bash(git clone *)",
+      "Bash(ping -n 2 github.com)"
+    ]
+  }
+}
